@@ -7,12 +7,15 @@ sites:
     url: https://www.google.com
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: WGU
-    url: https://www.wgu.edu
   - name: Linux Handbook
     url: https://linuxhandbook.com
+  - name: Netxcloud
+    url: https://questioning-bird-5561.dataplicity.io/nextcloud/
+  - name: WGU
+    url: https://www.wgu.edu
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
