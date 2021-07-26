@@ -11,8 +11,8 @@ sites:
     url: https://en.wikipedia.org
   - name: WGU
     url: https://www.wgu.edu
-  - name: It's Foss
-    url: https://itsfoss.com, https://linuxhandbook.com
+  - name: Linux Handbook
+    url: https://linuxhandbook.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
