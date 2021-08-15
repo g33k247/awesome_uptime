@@ -40,18 +40,20 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://favicons.githubusercontent.com/linuxhandbook.com",
     "slug": "linux-handbook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1106,
-    "timeDay": 1150,
-    "timeWeek": 1069,
-    "timeMonth": 1106,
-    "timeYear": 1106,
-    "dailyMinutesDown": {}
+    "time": 1201,
+    "timeDay": 2223,
+    "timeWeek": 1348,
+    "timeMonth": 1201,
+    "timeYear": 1201,
+    "dailyMinutesDown": {
+      "2021-08-15": 0
+    }
   },
   {
     "name": "Netxcloud",
