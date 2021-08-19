@@ -58,19 +58,19 @@
     "url": "https://questioning-bird-5561.dataplicity.io/nextcloud/",
     "icon": "https://favicons.githubusercontent.com/questioning-bird-5561.dataplicity.io",
     "slug": "netxcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 895,
-    "timeDay": 651,
-    "timeWeek": 796,
-    "timeMonth": 895,
-    "timeYear": 895,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 890,
+    "timeDay": 696,
+    "timeWeek": 789,
+    "timeMonth": 890,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 7
     }
   },
   {
