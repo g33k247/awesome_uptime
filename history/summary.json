@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/questioning-bird-5561.dataplicity.io",
     "slug": "netxcloud",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "96.44%",
     "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1029,
     "timeDay": 2356,
     "timeWeek": 1316,
@@ -78,9 +78,9 @@
     "url": "https://www.wgu.edu",
     "icon": "https://favicons.githubusercontent.com/www.wgu.edu",
     "slug": "wgu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 392,
     "timeMonth": 313,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-21": 0
+    }
   },
   {
     "name": "Wikipedia",
