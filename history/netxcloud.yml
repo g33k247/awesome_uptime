@@ -1,7 +1,7 @@
 url: https://questioning-bird-5561.dataplicity.io/nextcloud/
-status: up
-code: 200
-responseTime: 1139
-lastUpdated: 2021-09-07T23:04:49.976Z
+status: down
+code: 500
+responseTime: 379
+lastUpdated: 2021-09-08T07:47:28.897Z
 startTime: Mon Jul 26 2021 00:23:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
