@@ -22,18 +22,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 423,
-    "timeWeek": 309,
-    "timeMonth": 313,
-    "timeYear": 302,
-    "dailyMinutesDown": {}
+    "time": 301,
+    "timeDay": 306,
+    "timeWeek": 297,
+    "timeMonth": 309,
+    "timeYear": 301,
+    "dailyMinutesDown": {
+      "2021-09-28": 0
+    }
   },
   {
     "name": "Linux Handbook",
