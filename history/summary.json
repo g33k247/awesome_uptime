@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 58,
-    "timeWeek": 108,
+    "timeDay": 60,
+    "timeWeek": 105,
     "timeMonth": 104,
     "timeYear": 94,
     "dailyMinutesDown": {}
@@ -24,18 +24,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 335,
-    "timeWeek": 306,
+    "time": 303,
+    "timeDay": 318,
+    "timeWeek": 317,
     "timeMonth": 312,
-    "timeYear": 302,
-    "dailyMinutesDown": {
-      "2021-09-28": 8
-    }
+    "timeYear": 303,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Linux Handbook",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1120,
-    "timeDay": 1160,
-    "timeWeek": 1201,
-    "timeMonth": 1106,
+    "timeDay": 1124,
+    "timeWeek": 1193,
+    "timeMonth": 1114,
     "timeYear": 1120,
     "dailyMinutesDown": {}
   },
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.88%",
-    "time": 1141,
-    "timeDay": 704,
-    "timeWeek": 1172,
+    "time": 1135,
+    "timeDay": 649,
+    "timeWeek": 1122,
     "timeMonth": 1265,
-    "timeYear": 1141,
+    "timeYear": 1135,
     "dailyMinutesDown": {
       "2021-09-06": 59,
       "2021-08-20": 51
@@ -87,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 91,
-    "timeWeek": 286,
-    "timeMonth": 294,
-    "timeYear": 292,
+    "time": 291,
+    "timeDay": 156,
+    "timeWeek": 211,
+    "timeMonth": 296,
+    "timeYear": 291,
     "dailyMinutesDown": {}
   },
   {
@@ -106,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 207,
-    "timeWeek": 246,
-    "timeMonth": 221,
+    "timeDay": 210,
+    "timeWeek": 241,
+    "timeMonth": 222,
     "timeYear": 221,
     "dailyMinutesDown": {}
   }
