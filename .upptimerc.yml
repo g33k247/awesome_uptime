@@ -13,8 +13,8 @@ sites:
     url: https://questioning-bird-5561.dataplicity.io/nextcloud/
   - name: WGU
     url: https://www.wgu.edu
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Microsoft
+    url: https://www.microsoft.com
 
 
 status-website:
