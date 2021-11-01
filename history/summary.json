@@ -61,12 +61,12 @@
     "status": "up",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.70%",
     "time": 1148,
     "timeDay": 652,
-    "timeWeek": 851,
+    "timeWeek": 793,
     "timeMonth": 1176,
     "timeYear": 1148,
     "dailyMinutesDown": {
@@ -101,19 +101,19 @@
     "url": "https://www.microsoft.com",
     "icon": "https://favicons.githubusercontent.com/www.microsoft.com",
     "slug": "microsoft",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 284,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 388,
+    "timeDay": 290,
+    "timeWeek": 382,
+    "timeMonth": 388,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2021-11-01": 0
+      "2021-11-01": 85
     }
   }
 ]
