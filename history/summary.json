@@ -59,14 +59,14 @@
     "icon": "https://favicons.githubusercontent.com/questioning-bird-5561.dataplicity.io",
     "slug": "netxcloud",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.65%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 1148,
-    "timeDay": 513,
-    "timeWeek": 1092,
+    "timeDay": 652,
+    "timeWeek": 851,
     "timeMonth": 1176,
     "timeYear": 1148,
     "dailyMinutesDown": {
@@ -101,9 +101,9 @@
     "url": "https://www.microsoft.com",
     "icon": "https://favicons.githubusercontent.com/www.microsoft.com",
     "slug": "microsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,6 +112,8 @@
     "timeWeek": 395,
     "timeMonth": 395,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-01": 0
+    }
   }
 ]
