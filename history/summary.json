@@ -90,18 +90,16 @@
     "slug": "wgu",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
     "timeDay": 2427,
     "timeWeek": 1179,
     "timeMonth": 1360,
     "timeYear": 538,
-    "dailyMinutesDown": {
-      "2021-12-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Microsoft",
