@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 75,
-    "timeWeek": 92,
-    "timeMonth": 109,
-    "timeYear": 97,
-    "dailyMinutesDown": {}
+    "time": 98,
+    "timeDay": 189,
+    "timeWeek": 118,
+    "timeMonth": 115,
+    "timeYear": 98,
+    "dailyMinutesDown": {
+      "2021-12-18": 0
+    }
   },
   {
     "name": "Hacker News",
