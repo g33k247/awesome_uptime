@@ -106,9 +106,9 @@
     "url": "https://www.microsoft.com",
     "icon": "https://favicons.githubusercontent.com/www.microsoft.com",
     "slug": "microsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -118,6 +118,7 @@
     "timeMonth": 374,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2021-12-20": 0,
       "2021-11-01": 85
     }
   }
