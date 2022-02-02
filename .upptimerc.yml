@@ -15,7 +15,8 @@ sites:
     url: https://www.wgu.edu
   - name: Microsoft
     url: https://www.microsoft.com
-
+  - name: VPNunlimited
+    url: https://my.keepsolid.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
