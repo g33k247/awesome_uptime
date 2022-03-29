@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 71,
-    "timeWeek": 113,
-    "timeMonth": 113,
+    "timeDay": 121,
+    "timeWeek": 112,
+    "timeMonth": 114,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 126,
-    "timeWeek": 170,
-    "timeMonth": 172,
+    "timeDay": 186,
+    "timeWeek": 185,
+    "timeMonth": 175,
     "timeYear": 280,
-    "dailyMinutesDown": {
-      "2022-03-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Linux Handbook",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1098,
-    "timeDay": 1101,
-    "timeWeek": 1101,
-    "timeMonth": 1034,
-    "timeYear": 1098,
+    "time": 1097,
+    "timeDay": 759,
+    "timeWeek": 1047,
+    "timeMonth": 1025,
+    "timeYear": 1097,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.65%",
     "time": 1207,
-    "timeDay": 1419,
-    "timeWeek": 1663,
-    "timeMonth": 1958,
+    "timeDay": 1191,
+    "timeWeek": 1616,
+    "timeMonth": 1937,
     "timeYear": 1207,
     "dailyMinutesDown": {
       "2022-03-23": 27,
@@ -99,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 39,
-    "timeWeek": 71,
-    "timeMonth": 87,
-    "timeYear": 824,
+    "time": 821,
+    "timeDay": 161,
+    "timeWeek": 87,
+    "timeMonth": 89,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2022-01-22": 17
     }
@@ -119,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 399,
-    "timeDay": 214,
-    "timeWeek": 494,
-    "timeMonth": 419,
-    "timeYear": 399,
+    "time": 398,
+    "timeDay": 353,
+    "timeWeek": 468,
+    "timeMonth": 417,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2021-11-01": 85
     }
@@ -139,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.91%",
-    "time": 2678,
-    "timeDay": 899,
-    "timeWeek": 773,
-    "timeMonth": 4246,
-    "timeYear": 2678,
+    "time": 2648,
+    "timeDay": 660,
+    "timeWeek": 745,
+    "timeMonth": 4152,
+    "timeYear": 2648,
     "dailyMinutesDown": {
       "2022-03-07": 29,
       "2022-03-04": 43
