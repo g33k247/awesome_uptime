@@ -111,11 +111,11 @@
     "url": "https://www.microsoft.com",
     "icon": "https://favicons.githubusercontent.com/www.microsoft.com",
     "slug": "microsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.95%",
     "time": 735,
     "timeDay": 8922,
@@ -123,7 +123,7 @@
     "timeMonth": 2030,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2022-05-01": 35,
+      "2022-05-01": 26,
       "2022-04-06": 28,
       "2021-11-01": 85
     }
