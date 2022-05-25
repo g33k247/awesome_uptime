@@ -42,18 +42,19 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://favicons.githubusercontent.com/linuxhandbook.com",
     "slug": "linux-handbook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.72%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1092,
-    "timeDay": 1024,
+    "timeDay": 1158,
     "timeWeek": 1004,
     "timeMonth": 1132,
     "timeYear": 1092,
     "dailyMinutesDown": {
+      "2022-05-25": 0,
       "2022-05-24": 47
     }
   },
@@ -124,7 +125,7 @@
     "time": 746,
     "timeDay": 452,
     "timeWeek": 552,
-    "timeMonth": 1821,
+    "timeMonth": 1861,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2022-05-05": 19,
