@@ -4,9 +4,9 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 114,
     "timeMonth": 90,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-13": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -80,7 +82,7 @@
     "status": "up",
     "uptime": "97.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "30.19%",
+    "uptimeWeek": "35.98%",
     "uptimeMonth": "76.45%",
     "uptimeYear": "97.20%",
     "time": 1363,
