@@ -13,7 +13,7 @@
     "time": 101,
     "timeDay": 88,
     "timeWeek": 86,
-    "timeMonth": 103,
+    "timeMonth": 102,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 272,
     "timeDay": 106,
     "timeWeek": 278,
-    "timeMonth": 303,
+    "timeMonth": 308,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2022-07-08": 546,
@@ -53,7 +53,7 @@
     "time": 913,
     "timeDay": 905,
     "timeWeek": 780,
-    "timeMonth": 725,
+    "timeMonth": 726,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2022-09-26": 29,
@@ -79,17 +79,16 @@
     "slug": "netxcloud",
     "status": "up",
     "uptime": "97.85%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "86.65%",
-    "uptimeMonth": "96.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.72%",
+    "uptimeMonth": "96.94%",
     "uptimeYear": "97.14%",
     "time": 1468,
     "timeDay": 700,
     "timeWeek": 3350,
-    "timeMonth": 2321,
+    "timeMonth": 2287,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2022-12-30": 8,
       "2022-12-29": 642,
       "2022-12-28": 316,
       "2022-12-27": 115,
@@ -130,7 +129,7 @@
     "time": 506,
     "timeDay": 49,
     "timeWeek": 83,
-    "timeMonth": 105,
+    "timeMonth": 104,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2022-01-22": 17
@@ -150,7 +149,7 @@
     "time": 607,
     "timeDay": 244,
     "timeWeek": 554,
-    "timeMonth": 601,
+    "timeMonth": 596,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2022-05-05": 19,
@@ -172,7 +171,7 @@
     "time": 1539,
     "timeDay": 871,
     "timeWeek": 715,
-    "timeMonth": 638,
+    "timeMonth": 633,
     "timeYear": 1539,
     "dailyMinutesDown": {
       "2022-12-17": 19,
