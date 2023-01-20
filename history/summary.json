@@ -126,9 +126,9 @@
     "slug": "wgu",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
     "timeDay": 75,
@@ -136,7 +136,6 @@
     "timeMonth": 89,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-01-19": 4,
       "2022-01-22": 17
     }
   },
