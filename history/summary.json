@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 169,
-    "timeWeek": 182,
+    "timeDay": 158,
+    "timeWeek": 177,
     "timeMonth": 137,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-05-01": 9
+      "2024-05-01": 1
     }
   },
   {
@@ -72,7 +72,7 @@
     "uptime": "96.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.72%",
+    "uptimeMonth": "34.70%",
     "uptimeYear": "94.24%",
     "time": 1933,
     "timeDay": 243,
@@ -80,7 +80,7 @@
     "timeMonth": 448,
     "timeYear": 1845,
     "dailyMinutesDown": {
-      "2024-05-01": 879,
+      "2024-05-01": 889,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -152,7 +152,7 @@
     "timeMonth": 1216,
     "timeYear": 5046,
     "dailyMinutesDown": {
-      "2024-05-01": 879,
+      "2024-05-01": 889,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
