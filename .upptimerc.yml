@@ -9,8 +9,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Linux Handbook
     url: https://linuxhandbook.com
-  - name: Netxcloud
-    url: https://questioning-bird-5561.dataplicity.io/nextcloud/
+  #- name: Netxcloud
+  #  url: https://questioning-bird-5561.dataplicity.io/nextcloud/
   - name: WGU
     url: https://www.wgu.edu
   - name: Microsoft
