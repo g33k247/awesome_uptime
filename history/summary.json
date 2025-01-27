@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 87,
+    "timeDay": 100,
     "timeWeek": 145,
-    "timeMonth": 118,
+    "timeMonth": 119,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2024-05-01": 31
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 317,
-    "timeDay": 141,
-    "timeWeek": 350,
-    "timeMonth": 324,
+    "timeDay": 437,
+    "timeWeek": 348,
+    "timeMonth": 327,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2024-10-27": 34
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 780,
-    "timeDay": 1054,
-    "timeWeek": 793,
-    "timeMonth": 820,
+    "timeDay": 705,
+    "timeWeek": 785,
+    "timeMonth": 818,
     "timeYear": 791,
     "dailyMinutesDown": {
       "2024-11-14": 33,
@@ -72,9 +72,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 143,
-    "timeDay": 58,
-    "timeWeek": 3044,
-    "timeMonth": 823,
+    "timeDay": 132,
+    "timeWeek": 2999,
+    "timeMonth": 824,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2025-01-21": 148
@@ -86,18 +86,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "49.79%",
+    "uptime": "49.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4423,
-    "timeDay": 0,
-    "timeWeek": 7216,
-    "timeMonth": 7697,
-    "timeYear": 4083,
+    "time": 4363,
+    "timeDay": 87,
+    "timeWeek": 5951,
+    "timeMonth": 7063,
+    "timeYear": 4058,
     "dailyMinutesDown": {
-      "2025-01-26": 1044,
+      "2025-01-27": 17,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -460,8 +461,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   },
   {
@@ -471,17 +471,16 @@
     "slug": "vp-nunlimited",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 787,
-    "timeDay": 730,
-    "timeWeek": 681,
-    "timeMonth": 682,
-    "timeYear": 842,
+    "timeDay": 561,
+    "timeWeek": 677,
+    "timeMonth": 681,
+    "timeYear": 841,
     "dailyMinutesDown": {
-      "2025-01-26": 12,
       "2024-10-30": 17
     }
   }
