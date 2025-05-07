@@ -84,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "45.93%",
+    "uptime": "45.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -95,7 +95,7 @@
     "timeMonth": 2831,
     "timeYear": 4193,
     "dailyMinutesDown": {
-      "2025-05-07": 19,
+      "2025-05-07": 897,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -467,18 +467,19 @@
     "url": "https://my.keepsolid.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.keepsolid.com.ico",
     "slug": "vp-nunlimited",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 862,
-    "timeDay": 1136,
-    "timeWeek": 1371,
-    "timeMonth": 1344,
+    "timeDay": 1029,
+    "timeWeek": 1315,
+    "timeMonth": 1330,
     "timeYear": 930,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2024-10-30": 17
     }
   }
