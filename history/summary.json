@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 104,
-    "timeWeek": 118,
+    "timeDay": 90,
+    "timeWeek": 103,
     "timeMonth": 108,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 307,
-    "timeDay": 130,
-    "timeWeek": 251,
-    "timeMonth": 253,
-    "timeYear": 306,
+    "timeDay": 357,
+    "timeWeek": 245,
+    "timeMonth": 254,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2024-10-27": 34
     }
@@ -48,9 +48,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 839,
-    "timeDay": 1179,
-    "timeWeek": 859,
+    "time": 840,
+    "timeDay": 720,
+    "timeWeek": 872,
     "timeMonth": 913,
     "timeYear": 907,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 146,
-    "timeDay": 159,
+    "timeDay": 134,
     "timeWeek": 103,
     "timeMonth": 103,
     "timeYear": 168,
@@ -84,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "45.72%",
+    "uptime": "45.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 4124,
     "timeDay": 0,
-    "timeWeek": 9723,
+    "timeWeek": 19395,
     "timeMonth": 2485,
     "timeYear": 4388,
     "dailyMinutesDown": {
-      "2025-05-13": 19,
+      "2025-05-14": 19,
+      "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -458,8 +459,7 @@
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
-      "2024-05-15": 1440,
-      "2024-05-14": 1440
+      "2024-05-15": 1440
     }
   },
   {
@@ -473,11 +473,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 1411,
-    "timeWeek": 1248,
-    "timeMonth": 1319,
-    "timeYear": 938,
+    "time": 873,
+    "timeDay": 1538,
+    "timeWeek": 1292,
+    "timeMonth": 1339,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2024-10-30": 17
     }
