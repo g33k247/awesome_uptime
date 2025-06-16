@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 258,
-    "timeWeek": 175,
-    "timeMonth": 126,
+    "timeDay": 272,
+    "timeWeek": 173,
+    "timeMonth": 125,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2025-06-15": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 312,
-    "timeDay": 134,
-    "timeWeek": 346,
-    "timeMonth": 367,
+    "time": 313,
+    "timeDay": 419,
+    "timeWeek": 349,
+    "timeMonth": 370,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2024-10-27": 34
@@ -50,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 845,
-    "timeDay": 1105,
-    "timeWeek": 755,
-    "timeMonth": 753,
+    "time": 846,
+    "timeDay": 670,
+    "timeWeek": 756,
+    "timeMonth": 751,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2024-11-14": 33
@@ -71,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 148,
-    "timeDay": 83,
-    "timeWeek": 118,
-    "timeMonth": 132,
+    "timeDay": 124,
+    "timeWeek": 107,
+    "timeMonth": 133,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2025-01-21": 148
@@ -85,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "44.58%",
+    "uptime": "44.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3747,
-    "timeDay": 65,
-    "timeWeek": 62,
-    "timeMonth": 1081,
-    "timeYear": 3690,
+    "time": 3731,
+    "timeDay": 77,
+    "timeWeek": 64,
+    "timeMonth": 1044,
+    "timeYear": 3668,
     "dailyMinutesDown": {
-      "2025-06-15": 505,
+      "2025-06-16": 21,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -459,8 +458,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   },
   {
@@ -474,11 +472,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 1270,
-    "timeWeek": 1271,
-    "timeMonth": 1232,
-    "timeYear": 945,
+    "time": 916,
+    "timeDay": 874,
+    "timeWeek": 1236,
+    "timeMonth": 1230,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2024-10-30": 17
     }
