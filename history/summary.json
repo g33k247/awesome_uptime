@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 101,
-    "timeWeek": 144,
-    "timeMonth": 132,
+    "timeDay": 109,
+    "timeWeek": 146,
+    "timeMonth": 133,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 310,
-    "timeDay": 332,
-    "timeWeek": 200,
-    "timeMonth": 328,
+    "timeDay": 292,
+    "timeWeek": 221,
+    "timeMonth": 319,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2024-10-27": 34
@@ -44,17 +44,16 @@
     "slug": "linux-handbook",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 853,
-    "timeDay": 869,
-    "timeWeek": 995,
-    "timeMonth": 829,
+    "timeDay": 865,
+    "timeWeek": 959,
+    "timeMonth": 830,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2025-06-23": 8,
       "2024-11-14": 33
     }
   },
@@ -70,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 148,
-    "timeDay": 57,
-    "timeWeek": 82,
-    "timeMonth": 120,
+    "timeDay": 94,
+    "timeWeek": 84,
+    "timeMonth": 121,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-01-21": 148
@@ -84,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "44.32%",
+    "uptime": "44.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3654,
-    "timeDay": 96,
-    "timeWeek": 80,
-    "timeMonth": 547,
-    "timeYear": 3473,
+    "time": 3621,
+    "timeDay": 125,
+    "timeWeek": 85,
+    "timeMonth": 80,
+    "timeYear": 3452,
     "dailyMinutesDown": {
-      "2025-06-23": 475,
+      "2025-06-24": 20,
+      "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -458,8 +458,7 @@
       "2024-06-28": 1440,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
-      "2024-06-25": 1440,
-      "2024-06-24": 1440
+      "2024-06-25": 1440
     }
   },
   {
@@ -473,11 +472,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 1271,
-    "timeWeek": 1367,
-    "timeMonth": 1272,
-    "timeYear": 955,
+    "time": 928,
+    "timeDay": 1326,
+    "timeWeek": 1366,
+    "timeMonth": 1286,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2024-10-30": 17
     }
