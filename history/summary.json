@@ -24,9 +24,9 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 312,
     "timeDay": 277,
@@ -34,7 +34,6 @@
     "timeMonth": 299,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-07-10": 8,
       "2024-10-27": 34
     }
   },
@@ -84,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "43.75%",
+    "uptime": "43.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -95,7 +94,7 @@
     "timeMonth": 87,
     "timeYear": 3205,
     "dailyMinutesDown": {
-      "2025-07-10": 1186,
+      "2025-07-10": 1279,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -467,18 +466,19 @@
     "url": "https://my.keepsolid.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.keepsolid.com.ico",
     "slug": "vp-nunlimited",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 1470,
-    "timeWeek": 1122,
-    "timeMonth": 1213,
-    "timeYear": 958,
+    "time": 944,
+    "timeDay": 1036,
+    "timeWeek": 1057,
+    "timeMonth": 1193,
+    "timeYear": 957,
     "dailyMinutesDown": {
+      "2025-07-10": 0,
       "2024-10-30": 17
     }
   }
