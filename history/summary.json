@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 67,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "timeDay": 211,
+    "timeWeek": 125,
+    "timeMonth": 100,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2025-08-27": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -84,7 +86,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "42.28%",
+    "uptime": "42.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -95,7 +97,7 @@
     "timeMonth": 105,
     "timeYear": 2728,
     "dailyMinutesDown": {
-      "2025-08-27": 19,
+      "2025-08-27": 1106,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
