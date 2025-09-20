@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 87,
-    "timeWeek": 90,
-    "timeMonth": 105,
-    "timeYear": 112,
+    "timeDay": 75,
+    "timeWeek": 89,
+    "timeMonth": 102,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 88,
-    "timeWeek": 242,
-    "timeMonth": 307,
-    "timeYear": 317,
+    "timeDay": 440,
+    "timeWeek": 251,
+    "timeMonth": 310,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2024-10-27": 34
     }
@@ -44,17 +44,16 @@
     "slug": "linux-handbook",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 877,
-    "timeDay": 612,
-    "timeWeek": 747,
-    "timeMonth": 722,
-    "timeYear": 873,
+    "timeDay": 510,
+    "timeWeek": 744,
+    "timeMonth": 716,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-09-19": 13,
       "2025-09-02": 16,
       "2025-08-23": 51,
       "2024-11-14": 33
@@ -72,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 160,
-    "timeDay": 58,
-    "timeWeek": 95,
-    "timeMonth": 183,
+    "timeDay": 114,
+    "timeWeek": 100,
+    "timeMonth": 182,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2025-01-21": 148
@@ -92,12 +91,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2498,
-    "timeDay": 48,
-    "timeWeek": 119,
-    "timeMonth": 227,
-    "timeYear": 2128,
+    "timeDay": 58,
+    "timeWeek": 108,
+    "timeMonth": 222,
+    "timeYear": 2118,
     "dailyMinutesDown": {
-      "2025-09-19": 1219,
+      "2025-09-20": 17,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -460,8 +460,7 @@
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440
+      "2024-09-21": 1440
     }
   },
   {
@@ -475,11 +474,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1017,
-    "timeDay": 1559,
-    "timeWeek": 1181,
-    "timeMonth": 1252,
-    "timeYear": 977,
+    "time": 1016,
+    "timeDay": 1060,
+    "timeWeek": 1163,
+    "timeMonth": 1223,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2024-10-30": 17
     }
