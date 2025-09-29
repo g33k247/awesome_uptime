@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 148,
-    "timeWeek": 100,
+    "timeDay": 82,
+    "timeWeek": 101,
     "timeMonth": 96,
     "timeYear": 112,
     "dailyMinutesDown": {}
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 313,
-    "timeDay": 309,
-    "timeWeek": 294,
-    "timeMonth": 296,
+    "time": 312,
+    "timeDay": 105,
+    "timeWeek": 249,
+    "timeMonth": 286,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2024-10-27": 34
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 898,
-    "timeDay": 771,
-    "timeWeek": 1820,
-    "timeMonth": 968,
-    "timeYear": 891,
+    "timeDay": 852,
+    "timeWeek": 1844,
+    "timeMonth": 975,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2025-09-02": 16,
       "2025-08-23": 51,
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 162,
-    "timeDay": 213,
+    "timeDay": 107,
     "timeWeek": 167,
-    "timeMonth": 193,
+    "timeMonth": 187,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-01-21": 148
@@ -85,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "41.34%",
+    "uptime": "41.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2445,
-    "timeDay": 116,
-    "timeWeek": 113,
-    "timeMonth": 225,
-    "timeYear": 2006,
+    "timeDay": 63,
+    "timeWeek": 114,
+    "timeMonth": 220,
+    "timeYear": 1937,
     "dailyMinutesDown": {
-      "2025-09-28": 20,
+      "2025-09-29": 19,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -459,8 +460,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -474,11 +474,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1019,
-    "timeDay": 1345,
-    "timeWeek": 1190,
-    "timeMonth": 1208,
-    "timeYear": 979,
+    "time": 1020,
+    "timeDay": 1674,
+    "timeWeek": 1285,
+    "timeMonth": 1226,
+    "timeYear": 980,
     "dailyMinutesDown": {
       "2024-10-30": 17
     }
