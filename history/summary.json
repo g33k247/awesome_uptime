@@ -94,7 +94,7 @@
     "timeMonth": 102,
     "timeYear": 1343,
     "dailyMinutesDown": {
-      "2025-11-18": 948,
+      "2025-11-18": 956,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -466,19 +466,19 @@
     "url": "https://my.keepsolid.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.keepsolid.com.ico",
     "slug": "vp-nunlimited",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "88.08%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "87.49%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.97%",
-    "time": 1024,
-    "timeDay": 781,
-    "timeWeek": 916,
-    "timeMonth": 1116,
-    "timeYear": 1038,
+    "time": 1022,
+    "timeDay": 791,
+    "timeWeek": 910,
+    "timeMonth": 1108,
+    "timeYear": 1037,
     "dailyMinutesDown": {
-      "2025-11-18": 171
+      "2025-11-18": 180
     }
   }
 ]
