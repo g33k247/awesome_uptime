@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 169,
-    "timeWeek": 810,
-    "timeMonth": 288,
+    "timeWeek": 813,
+    "timeMonth": 295,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2025-11-30": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 380,
-    "timeWeek": 344,
-    "timeMonth": 334,
-    "timeYear": 317,
+    "timeDay": 118,
+    "timeWeek": 298,
+    "timeMonth": 343,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +47,10 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.96%",
     "time": 873,
-    "timeDay": 616,
-    "timeWeek": 676,
-    "timeMonth": 704,
-    "timeYear": 867,
+    "timeDay": 933,
+    "timeWeek": 728,
+    "timeMonth": 688,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2025-11-18": 133,
       "2025-09-02": 16,
@@ -71,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 170,
-    "timeDay": 139,
-    "timeWeek": 105,
-    "timeMonth": 128,
-    "timeYear": 193,
+    "timeDay": 135,
+    "timeWeek": 112,
+    "timeMonth": 131,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2025-01-21": 148
     }
@@ -88,15 +86,16 @@
     "uptime": "39.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1860,
-    "timeDay": 48,
-    "timeWeek": 110,
-    "timeMonth": 96,
+    "time": 1854,
+    "timeDay": 101,
+    "timeWeek": 114,
+    "timeMonth": 99,
     "timeYear": 1227,
     "dailyMinutesDown": {
-      "2025-11-30": 1304,
+      "2025-12-01": 25,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -459,8 +458,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   },
   {
@@ -475,10 +473,10 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 1021,
-    "timeDay": 1277,
-    "timeWeek": 1099,
-    "timeMonth": 1121,
-    "timeYear": 1054,
+    "timeDay": 1650,
+    "timeWeek": 1176,
+    "timeMonth": 1118,
+    "timeYear": 1057,
     "dailyMinutesDown": {
       "2025-11-18": 171
     }
