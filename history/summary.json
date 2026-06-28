@@ -47,17 +47,17 @@
     "url": "https://linuxhandbook.com",
     "icon": "https://icons.duckduckgo.com/ip3/linuxhandbook.com.ico",
     "slug": "linux-handbook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
-    "time": 843,
-    "timeDay": 881,
-    "timeWeek": 854,
-    "timeMonth": 770,
-    "timeYear": 800,
+    "time": 842,
+    "timeDay": 632,
+    "timeWeek": 795,
+    "timeMonth": 759,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2025-08-23": 51,
       "2025-09-02": 16,
@@ -69,7 +69,8 @@
       "2026-02-22": 16,
       "2026-04-08": 30,
       "2026-04-20": 21,
-      "2026-06-04": 47
+      "2026-06-04": 47,
+      "2026-06-28": 0
     }
   },
   {
@@ -96,7 +97,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "34.75%",
+    "uptime": "34.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -107,7 +108,7 @@
     "timeMonth": 1374,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-06-28": 50,
+      "2026-06-28": 662,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
